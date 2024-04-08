@@ -1,0 +1,4 @@
+ru/fullstackguy/openweathermapstarter/config/OpenWeatherMapAutoConfiguration.class
+ru/fullstackguy/openweathermapstarter/config/EnvPostProcessor.class
+ru/fullstackguy/openweathermapstarter/config/OpenWeatherMapProperties.class
+ru/fullstackguy/openweathermapstarter/service/WeatherService.class
